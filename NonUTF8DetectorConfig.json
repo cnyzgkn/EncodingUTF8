@@ -1,0 +1,14 @@
+{
+	"resultFile": "./nonUTF8.txt",
+	"checkDirectory": "D:/git/ifcDemo/ifcDemo/C++/ifcviewer",
+	"ignoreFolders": [
+		"GeneratedFiles"
+	],
+	"checkFileTypes": [
+		".cpp",
+		".h",
+		".filters",
+		".vcxproj",
+		".ui"
+	]
+}

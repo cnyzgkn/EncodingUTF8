@@ -1,0 +1,1 @@
+node ./DetectNonUTF8.js

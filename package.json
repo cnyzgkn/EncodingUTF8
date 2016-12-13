@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/node": "^6.0.48",
+    "jschardet": "^1.4.1"
+  }
+}
